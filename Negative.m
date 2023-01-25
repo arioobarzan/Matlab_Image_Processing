@@ -5,7 +5,7 @@ img = imread("cameraman.png");
 
 for j=1:h
     for i=1:w
-        img(j,i)=(w-1)-img(j,i);
+        img(j,i)=255-img(j,i);
     end
 end
 
