@@ -1,4 +1,6 @@
 # Matlab_Image_Processing
+Special Thanks to: @Ruasoft for created this repository
+
 This is my repository about Computer Vision and Image Processing in Matlab. In this repo we have a lot of common image processing codes.
 For Processing more easily I used grayscale and convert most of images to grayscale.
 
