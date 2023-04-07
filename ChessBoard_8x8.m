@@ -1,4 +1,4 @@
-clc ; clear; close;
+clc ; clear; close all;
 img = zeros(8,8);
 
 for j=1:8
