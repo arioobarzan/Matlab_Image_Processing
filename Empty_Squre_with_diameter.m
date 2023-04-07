@@ -1,4 +1,4 @@
-clc; clear; close;
+clc; clear; close all;
 % Draw an Empty Square with Diameter
 img = zeros(1000,1000);
 
