@@ -1,4 +1,6 @@
-clc ; clear; close all;
+clc;
+clear;
+close all;
 img = zeros(8,8);
 
 for j=1:8
@@ -17,6 +19,7 @@ for j=1:8
     end
 end
 
-img = uint8(img);imshow(img);
+img = uint8(img);
+imshow(img);
 
         
